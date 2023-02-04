@@ -1,5 +1,5 @@
   
-# 🔮🚀 PCS-Prediction v1.0
+# 🔮🚀 PancakeSwap-Prediction v5.0 no % Fee
 
 ![PancakeSwap-Logo](/img/logo.jpg?raw=true)
 
