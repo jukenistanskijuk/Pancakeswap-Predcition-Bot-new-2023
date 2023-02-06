@@ -7,7 +7,7 @@ The bot that uses signals from TradingView to predict the price of BNB for Up or
 
 ## ⭐Please consider giving a **star**.
 
-
+## Contact Us: Support@Assaempire.eu 
 
 ## 🐰⚡ Installation
 
