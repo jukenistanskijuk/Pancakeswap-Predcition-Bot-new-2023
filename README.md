@@ -1,5 +1,5 @@
   
-# 🔮🚀 PancakeSwap-Prediction v5.0 no % Fee
+# 🔮🚀 PancakeSwap-Prediction v5.0 
 
 ![PancakeSwap-Logo](/img/logo.jpg?raw=true)
 
